@@ -11,7 +11,7 @@
 <ul align="left">
   <li>Python</li>
    <li>Java</li><li>C</li>
-  -<li> Amazon Web Services (AWS)</li>
+  <li> Amazon Web Services (AWS)</li>
   
 </ul>
 <h2 align="left">SKILLS</h2>
