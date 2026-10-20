@@ -77,7 +77,7 @@ I integrate Generative AI into products and use AI tools to build faster, while 
 
 ## 💼 Experience
 
-**Software Test Engineer – Trainee** · Medverve Healthcare · Sep 2025 – Present
+**Software Test Engineer – Trainee** · Medverve Healthcare · Sep 2025 – Present<br>
 **Software Engineer** · Cogniot Technologies · Aug 2024 – Dec 2024
 
 🎓 B.E. Computer Science and Engineering, National Engineering College (2021 – 2024)
