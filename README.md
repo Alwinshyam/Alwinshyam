@@ -3,7 +3,7 @@
 ### Full Stack Developer (React · Node.js · MongoDB) building real-time, AI-powered web apps
 
 🟢 **Open to Full Stack / Frontend / Backend roles** (Junior / Entry level)
-📍 India · ✉️ alwinshyam21@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alwin-shyam)
+📍 India · ✉️ alwinshyam21@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/alwin-shyam) · 📄 [Download my Resume](https://drive.google.com/file/d/1j86OlLMNWb3Totn5MGN-my-YZIazcCIY/view?usp=sharing)
 
 I currently work as a Software Engineer (Trainee) at a healthcare technology company. I ship React.js and backend features, debug production issues, and work across the full SDLC. I write secure (OWASP-aware), tested, maintainable code.
 
@@ -59,6 +59,22 @@ Deep-learning projects in Python for medical image segmentation and object detec
 
 ---
 
+## 🤖 Generative AI & AI-Assisted Development
+
+I integrate Generative AI into products and use AI tools to build faster, while still reviewing, testing and understanding every line I ship.
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+
+- **GenAI in products:** LLM integration, chatbot development, and automated summaries and data extraction (CQC Portal, Trade2Cart)
+- **Prompt engineering:** writing clear, structured prompts for reliable outputs
+- **AI-assisted workflow:** using ChatGPT, Claude and Cursor for scaffolding, debugging, refactoring, code explanations and test ideas
+- **Concepts:** LLMs, prompting techniques, AI-powered features and responsible AI use (reviewing outputs, protecting sensitive data)
+
+---
+
 ## 💼 Experience
 
 **Software Test Engineer – Trainee** · Medverve Healthcare · Sep 2025 – Present
@@ -72,3 +88,4 @@ Deep-learning projects in Python for medical image segmentation and object detec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alwin-shyam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwinshyam21@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1j86OlLMNWb3Totn5MGN-my-YZIazcCIY/view?usp=sharing)
